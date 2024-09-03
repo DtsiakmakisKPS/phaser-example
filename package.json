@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DtsiakmakisKPS/phaser-example.git"
+  },
+  "homepage": "https://github.com/DtsiakmakisKPS/phaser-example.git",
   "author": "Dimitrios Tsiakmakis",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^4.7.5"
+  }
 }
