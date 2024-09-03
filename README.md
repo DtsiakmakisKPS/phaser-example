@@ -1,6 +1,6 @@
 # phaser-example
 Very basic multiplayer online game example made with Phaser, Node.js and Socket.io. <br />
-This game for now currently runs on your local network. The purpose of this game was only educational and to develop skills for KPS Hackathon 2024
+This game for now currently runs on your local network. The purpose of this game was only educational and to develop skills for KPS Hackathon 2024.
 
 ## Installing and running the game
 
