@@ -20,7 +20,7 @@ io.on('connection', (socket) => {
     players[socket.id] = {
         playerId: socket.id,
         x: 100,
-        y: 450
+        y: 450,
     };
 
     // Send the players object to the new player
